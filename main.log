@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.23)  2 DEC 2022 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.23)  2 DEC 2022 18:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -143,12 +143,27 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- (./chapters/chapter_1/chapter_1.tex) (./chapters/chapter_2/chapter_2.tex) (./chapters/chapter_3/chapter_3.tex) (./chapters/chapter_4/chapter_4.tex) (./chapters/chapter_5/chapter_5.tex) (./chapters/chapter_6/chapter_6.tex) (./chapters/chapter_7/chapter_7.tex [2]) (./chapters/chapter_8/chapter_8.tex) (./chapters/chapter_9/chapter_9.tex) (./chapters/chapter_10/chapter_10.tex) (./chapters/chapter_11/chapter_11.tex) (./chapters/chapter_12/chapter_12.tex
+ (./chapters/chapter_1/chapter_1.tex [2] [3]
+Overfull \hbox (6.85005pt too wide) in paragraph at lines 33--35
+\OT1/cmr/m/n/12 La prima legge della chim-ica, nulla si crea, nulla si dis-trugge, tutto si trasforma. 
+ []
+
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 71--87
+
+ []
+
+[6] [7]) (./chapters/chapter_2/chapter_2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 106--1
+
+ []
+
+) (./chapters/chapter_3/chapter_3.tex) (./chapters/chapter_4/chapter_4.tex) (./chapters/chapter_5/chapter_5.tex [8]) (./chapters/chapter_6/chapter_6.tex) (./chapters/chapter_7/chapter_7.tex) (./chapters/chapter_8/chapter_8.tex) (./chapters/chapter_9/chapter_9.tex) (./chapters/chapter_10/chapter_10.tex) (./chapters/chapter_11/chapter_11.tex) (./chapters/chapter_12/chapter_12.tex [9]
 Overfull \hbox (3.63177pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/17.28 Forze in-ter-moleco-lari, liq-uidi, so-lidi e tran-
  []
 
-) (./chapters/chapter_13/chapter_13.tex [3]) (./chapters/chapter_14/chapter_14.tex
+) (./chapters/chapter_13/chapter_13.tex) (./chapters/chapter_14/chapter_14.tex
 Overfull \hbox (8.19171pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/17.28 L'equilibrio, l'entit^^Ra delle reazioni chimiche 
  []
@@ -158,20 +173,20 @@ Overfull \hbox (28.65375pt too wide) in paragraph at lines 1--1
 []\OT1/cmr/bx/n/17.28 Equilibri acido-base e di sol-u-bilit^^Ra in soluzioni
  []
 
-) (./chapters/chapter_16/chapter_16.tex) (./chapters/chapter_17/chapter_17.tex) (./chapters/chapter_18/chapter_18.tex) (./chapters/chapter_19/chapter_19.tex [4]) [5] (./main.aux) ) 
+) (./chapters/chapter_16/chapter_16.tex) (./chapters/chapter_17/chapter_17.tex) (./chapters/chapter_18/chapter_18.tex [10]) (./chapters/chapter_19/chapter_19.tex) [11] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2211 strings out of 480247
- 37108 string characters out of 5896150
- 320681 words of memory out of 5000000
- 20075 multiletter control sequences out of 15000+600000
- 472133 words of font info for 38 fonts, out of 8000000 for 9000
+ 2233 strings out of 480247
+ 37337 string characters out of 5896150
+ 325683 words of memory out of 5000000
+ 20090 multiletter control sequences out of 15000+600000
+ 475552 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,6n,62p,265b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (5 pages, 42785 bytes).
+ 55i,6n,62p,403b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (11 pages, 107332 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 80 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
