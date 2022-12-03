@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1670081635 "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" "main.pdf" "main" 1670081636
+["pdflatex"] 1670083518 "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" "main.pdf" "main" 1670083518
   "/etc/texmf/web2c/texmf.cnf" 1668951421 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" 1670076254 1043 1c1204001bce894f4f7ec905588caf4a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -18,6 +18,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1248133631 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
@@ -65,14 +66,14 @@
   "chapters/chapter_2/chapter_2.tex" 1670076934 11144 abf2efeef6da212164018730809c046e ""
   "chapters/chapter_3/chapter_3.tex" 1670081629 2008 4fc24c8d162de0b8ddbab4fd03b650a3 ""
   "chapters/chapter_4/chapter_4.tex" 1670081634 5379 f256d965641515be12af5de315b8692b ""
-  "chapters/chapter_5/chapter_5.tex" 1669998762 131 03df6551e3a13d2412f404729326f2b2 ""
+  "chapters/chapter_5/chapter_5.tex" 1670083517 4871 d386aa80e1a31ebd9615ff6ef77a831a ""
   "chapters/chapter_6/chapter_6.tex" 1669998772 130 190c72bf90fc819d86814440ef83a23e ""
   "chapters/chapter_7/chapter_7.tex" 1669998762 153 ec44c04d7fb020602f13cf529d023a37 ""
   "chapters/chapter_8/chapter_8.tex" 1669998762 141 1ced1bde64e0b03292f3853790e6efd6 ""
   "chapters/chapter_9/chapter_9.tex" 1669998762 141 b234c00d8a26e70f110d21019751be2a ""
-  "main.aux" 1670081636 9247 71ca3db3c0c92172833929cb464d2923 "pdflatex"
+  "main.aux" 1670083518 10698 1d1a6022c3bc65f34f2e53e1ac9f2dc4 "pdflatex"
   "main.tex" 1670076254 1043 1c1204001bce894f4f7ec905588caf4a ""
-  "main.toc" 1670081636 5975 809895d80dcdd5cf8338cb95e9c408e1 "pdflatex"
+  "main.toc" 1670083518 6893 e031cb88d95f3fc9d456f8bc1ee3ebb2 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
