@@ -1,8 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1670238618 "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" "main.pdf" "main" 1670238619
+["pdflatex"] 1670409953 "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" "main.pdf" "main" 1670409955
   "/etc/texmf/web2c/texmf.cnf" 1668951421 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/stefano/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1668963214 14040 ab972f877195d1abc3cfa3a5903fcdb4 ""
   "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" 1670076254 1043 1c1204001bce894f4f7ec905588caf4a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -69,11 +71,11 @@
   "chapters/chapter_5/chapter_5.tex" 1670163953 4874 f6a8cd732db22b732039897a4c8fa00e ""
   "chapters/chapter_6/chapter_6.tex" 1670165111 6054 f012e5e269e7ff85847146a63bbdb65a ""
   "chapters/chapter_7/chapter_7.tex" 1670235249 13478 a48eeb74977501bb972955813c1a23b7 ""
-  "chapters/chapter_8/chapter_8.tex" 1670238617 16992 5f2e9cfd11788a8a31ee5673a43055e3 ""
-  "chapters/chapter_9/chapter_9.tex" 1669998762 141 b234c00d8a26e70f110d21019751be2a ""
-  "main.aux" 1670238619 14737 faa4f1d570de93ccb54eb1d1d3569c1f "pdflatex"
+  "chapters/chapter_8/chapter_8.tex" 1670238652 16992 5f2e9cfd11788a8a31ee5673a43055e3 ""
+  "chapters/chapter_9/chapter_9.tex" 1670409950 10129 f3cee764083baaac2ab77c5ea49a70ee ""
+  "main.aux" 1670409954 15992 1c53f51483ec9e4b5bd56f372947f385 "pdflatex"
   "main.tex" 1670076254 1043 1c1204001bce894f4f7ec905588caf4a ""
-  "main.toc" 1670238619 9497 03741e0df70836183dffb50e7f24b705 "pdflatex"
+  "main.toc" 1670409954 10301 7ef307d59a48ba40a61353a2ee5292ff "pdflatex"
   (generated)
   "main.aux"
   "main.log"

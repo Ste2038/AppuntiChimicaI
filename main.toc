@@ -1,54 +1,54 @@
 \contentsline {section}{\numberline {1}Introduzione}{5}{}%
 \contentsline {subsection}{\numberline {1.1}Stati della materia}{5}{}%
 \contentsline {subsection}{\numberline {1.2}Proprietà della materia}{5}{}%
-\contentsline {subsection}{\numberline {1.3}Tipologia di proprietà}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Tipologia di proprietà}{6}{}%
 \contentsline {section}{\numberline {2}Componenti della materia}{6}{}%
 \contentsline {subsection}{\numberline {2.1}Elementi}{6}{}%
 \contentsline {subsubsection}{\numberline {2.1.1}Atomo}{6}{}%
 \contentsline {subsubsection}{\numberline {2.1.2}Molecole}{6}{}%
 \contentsline {subsubsection}{\numberline {2.1.3}Composto}{6}{}%
 \contentsline {subsubsection}{\numberline {2.1.4}Miscela}{6}{}%
-\contentsline {subsection}{\numberline {2.2}Storia}{6}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Legge di conservazione delle masse [Lavoisier]}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Storia}{7}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Legge di conservazione delle masse [Lavoisier]}{7}{}%
 \contentsline {subsubsection}{\numberline {2.2.2}Legge di composizione definita e costante [Proust]}{7}{}%
 \contentsline {subsubsection}{\numberline {2.2.3}Legge delle proporzioni multiple[Dalton]}{7}{}%
 \contentsline {subsubsection}{\numberline {2.2.4}Modello nucleare di Dalton}{7}{}%
-\contentsline {subsubsection}{\numberline {2.2.5}Modello nucleare di Rutherford}{7}{}%
-\contentsline {subsubsection}{\numberline {2.2.6}Spettrometro di massa}{7}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}Modello nucleare di Rutherford}{8}{}%
+\contentsline {subsubsection}{\numberline {2.2.6}Spettrometro di massa}{8}{}%
 \contentsline {subsubsection}{\numberline {2.2.7}Isotopi}{8}{}%
 \contentsline {subsubsection}{\numberline {2.2.8}Regole post-Dalton}{8}{}%
-\contentsline {subsubsection}{\numberline {2.2.9}Forza nucleare}{8}{}%
+\contentsline {subsubsection}{\numberline {2.2.9}Forza nucleare}{9}{}%
 \contentsline {subsection}{\numberline {2.3}Tavola periodica [Mendeleev](1871)}{9}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}Raggio Atomico}{9}{}%
-\contentsline {subsubsection}{\numberline {2.3.2}Energia di ionizzazione}{9}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Raggio Atomico}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Energia di ionizzazione}{10}{}%
 \contentsline {subsubsection}{\numberline {2.3.3}Affinità elettronica}{10}{}%
 \contentsline {subsubsection}{\numberline {2.3.4}Comportamento metallico}{10}{}%
 \contentsline {subsubsection}{\numberline {2.3.5}Raggio ionico}{10}{}%
-\contentsline {subsection}{\numberline {2.4}Legami chimici}{10}{}%
-\contentsline {subsubsection}{\numberline {2.4.1}Legame ionico}{10}{}%
+\contentsline {subsection}{\numberline {2.4}Legami chimici}{11}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Legame ionico}{11}{}%
 \contentsline {paragraph}{Regole}{11}{}%
 \contentsline {subsubsection}{\numberline {2.4.2}Legame covalente}{11}{}%
 \contentsline {subsubsection}{\numberline {2.4.3}Numero di ossidazione}{11}{}%
-\contentsline {paragraph}{Regole}{11}{}%
+\contentsline {paragraph}{Regole}{12}{}%
 \contentsline {subsection}{\numberline {2.5}Miscele}{12}{}%
 \contentsline {subsubsection}{\numberline {2.5.1}Eterogenee}{12}{}%
 \contentsline {subsubsection}{\numberline {2.5.2}Omogenee}{12}{}%
-\contentsline {subsection}{\numberline {2.6}Metodi di separazione}{12}{}%
-\contentsline {subsubsection}{\numberline {2.6.1}Filtrazione}{12}{}%
-\contentsline {subsubsection}{\numberline {2.6.2}Cristallizzazione}{12}{}%
+\contentsline {subsection}{\numberline {2.6}Metodi di separazione}{13}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Filtrazione}{13}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}Cristallizzazione}{13}{}%
 \contentsline {subsubsection}{\numberline {2.6.3}Distillazione}{13}{}%
 \contentsline {subsubsection}{\numberline {2.6.4}Estrazione}{13}{}%
 \contentsline {subsubsection}{\numberline {2.6.5}Cromatografia}{13}{}%
 \contentsline {section}{\numberline {3}La stechiometria}{13}{}%
 \contentsline {subsection}{\numberline {3.1}Mole}{13}{}%
-\contentsline {subsection}{\numberline {3.2}Numero di Avogadro}{13}{}%
-\contentsline {subsection}{\numberline {3.3}Costante di Avogadro}{13}{}%
+\contentsline {subsection}{\numberline {3.2}Numero di Avogadro}{14}{}%
+\contentsline {subsection}{\numberline {3.3}Costante di Avogadro}{14}{}%
 \contentsline {subsection}{\numberline {3.4}MA: massa atomica}{14}{}%
 \contentsline {subsection}{\numberline {3.5}MM: massa molare}{14}{}%
 \contentsline {subsection}{\numberline {3.6}Percentuale in massa}{14}{}%
 \contentsline {subsection}{\numberline {3.7}Analisi per combustione}{14}{}%
 \contentsline {subsection}{\numberline {3.8}Problemi di Stechiometrica}{14}{}%
-\contentsline {subsection}{\numberline {3.9}Reagente limitante}{14}{}%
+\contentsline {subsection}{\numberline {3.9}Reagente limitante}{15}{}%
 \contentsline {subsection}{\numberline {3.10}Resa teorica}{15}{}%
 \contentsline {subsubsection}{\numberline {3.10.1}Percentuale di resa}{15}{}%
 \contentsline {section}{\numberline {4}Classificazione delle reazioni chimiche}{15}{}%
@@ -56,25 +56,25 @@
 \contentsline {subsubsection}{\numberline {4.1.1}Regole di solubilità}{16}{}%
 \contentsline {subsection}{\numberline {4.2}Primo metodo di classificazioni delle reazioni}{16}{}%
 \contentsline {subsubsection}{\numberline {4.2.1}Reazioni di precipitazione}{16}{}%
-\contentsline {subsubsection}{\numberline {4.2.2}Reazione Acido-Base (Neutralizzazione)}{16}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Reazione Acido-Base (Neutralizzazione)}{17}{}%
 \contentsline {subsubsection}{\numberline {4.2.3}Reazione di Ossido-Riduzione (Redox)}{17}{}%
-\contentsline {subsection}{\numberline {4.3}Secondo metodo di classificazioni delle reazioni chimiche}{17}{}%
-\contentsline {subsubsection}{\numberline {4.3.1}Reazione di combinazione (Sintesi)}{17}{}%
+\contentsline {subsection}{\numberline {4.3}Secondo metodo di classificazioni delle reazioni chimiche}{18}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Reazione di combinazione (Sintesi)}{18}{}%
 \contentsline {subsubsection}{\numberline {4.3.2}Reazione di decomposizione}{18}{}%
 \contentsline {subsubsection}{\numberline {4.3.3}Reazione di scambio}{18}{}%
-\contentsline {section}{\numberline {5}Lo stato gassoso}{18}{}%
-\contentsline {subsection}{\numberline {5.1}Proprietà dei gas}{18}{}%
+\contentsline {section}{\numberline {5}Lo stato gassoso}{19}{}%
+\contentsline {subsection}{\numberline {5.1}Proprietà dei gas}{19}{}%
 \contentsline {subsection}{\numberline {5.2}Pressione}{19}{}%
 \contentsline {subsection}{\numberline {5.3}Gas Perfetti}{20}{}%
 \contentsline {subsection}{\numberline {5.4}Legge di Boyle}{20}{}%
 \contentsline {subsection}{\numberline {5.5}Legge di Charles}{20}{}%
 \contentsline {subsection}{\numberline {5.6}Legge di Gay-Lussac}{20}{}%
 \contentsline {subsection}{\numberline {5.7}Legge di Avogadro}{20}{}%
-\contentsline {subsection}{\numberline {5.8}Equazione di stato dei gas perfetti [Avogadro]}{20}{}%
+\contentsline {subsection}{\numberline {5.8}Equazione di stato dei gas perfetti [Avogadro]}{21}{}%
 \contentsline {subsection}{\numberline {5.9}Pressioni Parziali}{21}{}%
 \contentsline {subsection}{\numberline {5.10}Energia Cinetica}{21}{}%
 \contentsline {subsection}{\numberline {5.11}Effusione}{21}{}%
-\contentsline {subsection}{\numberline {5.12}Atmosfera}{21}{}%
+\contentsline {subsection}{\numberline {5.12}Atmosfera}{22}{}%
 \contentsline {subsection}{\numberline {5.13}Equazione di Van der Waals}{22}{}%
 \contentsline {section}{\numberline {6}La termochimica}{22}{}%
 \contentsline {subsection}{\numberline {6.1}Principio della conservazioned dell'energia}{22}{}%
@@ -87,7 +87,7 @@
 \contentsline {subsubsection}{\numberline {6.4.1}Capacità termica}{24}{}%
 \contentsline {subsubsection}{\numberline {6.4.2}Calore specifico}{24}{}%
 \contentsline {subsubsection}{\numberline {6.4.3}Calore specifico molare}{24}{}%
-\contentsline {subsubsection}{\numberline {6.4.4}Strumentazione}{24}{}%
+\contentsline {subsubsection}{\numberline {6.4.4}Strumentazione}{25}{}%
 \contentsline {subsection}{\numberline {6.5}Legge di Hess}{25}{}%
 \contentsline {subsubsection}{\numberline {6.5.1}Tabulazioni}{25}{}%
 \contentsline {section}{\numberline {7}Teoria quantistica e struttura atomica}{26}{}%
@@ -115,13 +115,24 @@
 \contentsline {subsubsection}{\numberline {8.3.4}L'affinità elettronica}{39}{}%
 \contentsline {subsubsection}{\numberline {8.3.5}Comportamento metallico}{39}{}%
 \contentsline {section}{\numberline {9}Modelli del legame chimico}{42}{}%
-\contentsline {section}{\numberline {10}La forma delle molecole}{42}{}%
-\contentsline {section}{\numberline {11}Teorie del legame covalente}{42}{}%
-\contentsline {section}{\numberline {12}Forze intermolecolari, liquidi, solidi e transizioni di fase}{42}{}%
-\contentsline {section}{\numberline {13}Proprietà delle miscele, soluzioni e colloidi}{42}{}%
-\contentsline {section}{\numberline {14}L'equilibrio, l'entità delle reazioni chimiche}{42}{}%
-\contentsline {section}{\numberline {15}Equilibri acido-base e di solubilità in soluzioni acide}{43}{}%
-\contentsline {section}{\numberline {16}Entropia, energia libera e direzione delle reazioni}{43}{}%
-\contentsline {section}{\numberline {17}Cinetica chimica}{43}{}%
-\contentsline {section}{\numberline {18}Elettrochimica}{43}{}%
-\contentsline {section}{\numberline {19}Chimica organica}{43}{}%
+\contentsline {subsection}{\numberline {9.1}Simboli di Lewis}{42}{}%
+\contentsline {subsection}{\numberline {9.2}Regola dell'ottetto}{42}{}%
+\contentsline {subsection}{\numberline {9.3}Energia reticolare}{42}{}%
+\contentsline {subsection}{\numberline {9.4}Ciclo di Born-Haber}{42}{}%
+\contentsline {subsection}{\numberline {9.5}Elettronegatività}{43}{}%
+\contentsline {subsection}{\numberline {9.6}Legame Ionico}{44}{}%
+\contentsline {subsection}{\numberline {9.7}Legame covalente}{44}{}%
+\contentsline {subsubsection}{\numberline {9.7.1}Legame covalente reticolare}{45}{}%
+\contentsline {subsubsection}{\numberline {9.7.2}Legame covalente dativo}{45}{}%
+\contentsline {subsubsection}{\numberline {9.7.3}Legame metallico}{46}{}%
+\contentsline {subsection}{\numberline {9.8}Polarità di legame}{46}{}%
+\contentsline {section}{\numberline {10}La forma delle molecole}{47}{}%
+\contentsline {section}{\numberline {11}Teorie del legame covalente}{47}{}%
+\contentsline {section}{\numberline {12}Forze intermolecolari, liquidi, solidi e transizioni di fase}{47}{}%
+\contentsline {section}{\numberline {13}Proprietà delle miscele, soluzioni e colloidi}{47}{}%
+\contentsline {section}{\numberline {14}L'equilibrio, l'entità delle reazioni chimiche}{48}{}%
+\contentsline {section}{\numberline {15}Equilibri acido-base e di solubilità in soluzioni acide}{48}{}%
+\contentsline {section}{\numberline {16}Entropia, energia libera e direzione delle reazioni}{48}{}%
+\contentsline {section}{\numberline {17}Cinetica chimica}{48}{}%
+\contentsline {section}{\numberline {18}Elettrochimica}{48}{}%
+\contentsline {section}{\numberline {19}Chimica organica}{48}{}%
