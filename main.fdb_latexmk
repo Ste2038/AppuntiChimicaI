@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1670409953 "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" "main.pdf" "main" 1670409955
+["pdflatex"] 1670499637 "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" "main.pdf" "main" 1670499639
   "/etc/texmf/web2c/texmf.cnf" 1668951421 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/stefano/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1668963214 14040 ab972f877195d1abc3cfa3a5903fcdb4 ""
-  "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" 1670076254 1043 1c1204001bce894f4f7ec905588caf4a ""
+  "/home/stefano/Documents/Uni/Chimica/Appunti/main.tex" 1670498733 1052 7d96fb76cf091ecc15cc6632ee37084c ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -55,10 +55,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1669200476 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1669200483 1405658 c97e61511c7008b3d05e7cd5f245292f ""
   "chapters/chapter_1/chapter_1.tex" 1670076463 1556 ecc44cb87028205bd1a4ce6303dd8cb0 ""
-  "chapters/chapter_10/chapter_10.tex" 1669998770 138 1c4dae1e8ef47d08eef0b6d98e92d010 ""
-  "chapters/chapter_11/chapter_11.tex" 1669998762 142 d29dcd3388c608378d36afd5495435e5 ""
-  "chapters/chapter_12/chapter_12.tex" 1669998762 175 ac9e3fa38489364fa4225f74e7c6aced ""
-  "chapters/chapter_13/chapter_13.tex" 1669998762 161 120d454097705b30e7629e04ff18021f ""
+  "chapters/chapter_10/chapter_10.tex" 1670411486 9000 0c7cc41f979785587cd868faac688c17 ""
+  "chapters/chapter_11/chapter_11.tex" 1670413597 6729 a8b288181975c9e20298bab8fdb9e3f8 ""
+  "chapters/chapter_12/chapter_12.tex" 1670498573 25665 70aa71d1d4c20fc9d16522880cadf542 ""
+  "chapters/chapter_13/chapter_13.tex" 1670499634 5968 71e1e8c04bf27099dd21b54922270d0b ""
   "chapters/chapter_14/chapter_14.tex" 1669998762 162 a9adf81a6c76b70b72c14b893b14f1b5 ""
   "chapters/chapter_15/chapter_15.tex" 1669998762 171 9577f0e1a87323ee9d0ed768aa522d2d ""
   "chapters/chapter_16/chapter_16.tex" 1669998762 166 15493a680dfd4d15c3d6253a37f16773 ""
@@ -73,9 +73,9 @@
   "chapters/chapter_7/chapter_7.tex" 1670235249 13478 a48eeb74977501bb972955813c1a23b7 ""
   "chapters/chapter_8/chapter_8.tex" 1670238652 16992 5f2e9cfd11788a8a31ee5673a43055e3 ""
   "chapters/chapter_9/chapter_9.tex" 1670409950 10129 f3cee764083baaac2ab77c5ea49a70ee ""
-  "main.aux" 1670409954 15992 1c53f51483ec9e4b5bd56f372947f385 "pdflatex"
-  "main.tex" 1670076254 1043 1c1204001bce894f4f7ec905588caf4a ""
-  "main.toc" 1670409954 10301 7ef307d59a48ba40a61353a2ee5292ff "pdflatex"
+  "main.aux" 1670499639 23679 d01c59824b31eea40a713f9001034777 "pdflatex"
+  "main.tex" 1670498733 1052 7d96fb76cf091ecc15cc6632ee37084c ""
+  "main.toc" 1670499639 15323 5a920a4ad5e1ed49df6efca2ef29ca73 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
